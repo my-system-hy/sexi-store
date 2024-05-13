@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/my-system-hy/sexi-store.git",
+  "repository": "https://github.com/nk-rajput1/sheede-maut.git",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
@@ -23,6 +23,10 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
+      "value": "url"
+    },
+        "START_PIC": {
+      "description": "Paste your pic",
       "value": "url"
     },
     "DATABASE_NAME":{
