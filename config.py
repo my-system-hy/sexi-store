@@ -20,6 +20,9 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
+#START_PIC
+START_PIC   = os.environ.get("START_PIC", "")
+
 #Port
 PORT = os.environ.get("PORT", "8080")
 
